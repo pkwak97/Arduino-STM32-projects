@@ -1,0 +1,21 @@
+# Car Follow
+초음파 센서 기반 PID 거리 추종 RC카 (Arduino Uno)
+
+# project_outline
+초음파 센서(YB-SG90)로 전방 장애물과의 거리를 측정하고,
+PID 제어 알고리즘을 통해 목표 거리 30cm를 유지하며
+장애물의 이동과 상관없이 자동으로 추종하는 RC카 입니다.
+
+-목표거리 30cm 유지
+-제어 방식 PID
+
+# composition of HardWare
+메인보드 : Arduino Uno Board
+모터 드라이버 : PCA9685 PWM Driver
+거리 센서 : YB-SG90 초음파 센서
+구동방식 메카넘 휠 
+
+# FSM
+
+
+
