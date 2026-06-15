@@ -17,3 +17,13 @@ PID 제어 알고리즘을 통해 목표 거리 30cm를 유지하며
 
 # FSM
 <img width="748" height="612" alt="Image" src="https://github.com/user-attachments/assets/f8630f74-4b60-4bd9-8301-f0a54ec40488" />
+
+
+
+#PID 제어
+
+pid_output = (error * Kp) + (integral * Ki) + (derivative * Kd)
+
+P : 현재 오차에 비례한 반응
+I : 누적 오차 보정
+D : 오차 변화율에 따른 제동
