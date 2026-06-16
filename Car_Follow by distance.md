@@ -41,7 +41,7 @@ YB-SG90 초음파 센서
 ----
 # PID 튜닝 과정
 <img width="960" height="188" alt="image" src="https://github.com/user-attachments/assets/fe8c11d4-d175-49ba-b246-b22aeca58175" />
-
+<img width="960" height="605" alt="Image" src="https://github.com/user-attachments/assets/8af52c68-2e3e-4049-94b1-26dc61e6b575" />
 
 
 |
