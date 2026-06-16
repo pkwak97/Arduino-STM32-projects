@@ -33,7 +33,7 @@ YB-SG90 초음파 센서
 
 
 
-#PID 제어
+# PID 제어
 ----
 - P : 현재 오차에 비례한 반응 I : 누적 오차  D : 오차 변화율에 따른 제동
 - pid_output = (error * Kp) + (integral * Ki) + (derivative * Kd)
