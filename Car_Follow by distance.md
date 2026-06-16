@@ -1,5 +1,4 @@
-# Car Follow
-초음파 센서 기반 PID 거리 추종 RC카 (Arduino Uno)
+# 초음파 센서 기반 PID 거리 추종 RC카 (Arduino Uno)
 
 # project_outline
 초음파 센서(YB-SG90)로 전방 장애물과의 거리를 측정하고,
@@ -41,13 +40,13 @@ YB-SG90 초음파 센서
 
 ----
 # PID 튜닝 과정
+<img width="960" height="188" alt="image" src="https://github.com/user-attachments/assets/fe8c11d4-d175-49ba-b246-b22aeca58175" />
 
 
 
 |
-최종 파라미터 Kp = 7 , Ki = 0 Kd = 0
-|
- 정상상태 오차 : 약 0.6cm (목표 30cm , 실측 29.4cm)
+- 최종 파라미터 Kp = 7 , Ki = 0 Kd = 0
+- 정상상태 오차 : 약 0.6cm (목표 30cm , 실측 29.4cm)
 
 ----
 # 작동영상
